@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\Programs\Visual Studio\Projects\Lab_08_1_rec\Lab_08_1_rec\Main.cpp(30,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programs\Visual Studio\Projects\Lab_08_1_rec\Lab_08_1_rec\Main.cpp(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  UnitTest1.vcxproj -> D:\Programs\Visual Studio\Projects\Lab_08_1_rec\x64\Debug\UnitTest1.dll
